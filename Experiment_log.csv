@@ -1,0 +1,4 @@
+experiment_name,n_channels,filters,conv_activation,dense_units,lr,batch_size,val_accuracy
+exp1_culr_4ch_baseline,4,16,relu,128,0.001,64,0.4622
+exp1_culr_4ch_filters_32,4,32,relu,128,0.001,64,0.5142
+exp1_culr_5ch_filters_32,5,32,relu,128,0.001,64,0.4222
